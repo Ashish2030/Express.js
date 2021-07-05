@@ -21,9 +21,6 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Friends-Directory-Using-Ruby-On-Rails)](https://github.com/ashish2030/Friends-Directory-Using-Ruby-On-Rails/archive/master.zip)
  
 
-https://user-images.githubusercontent.com/61516051/123569430-ef767d00-d7e3-11eb-9908-4f5d70bef1f3.mp4
-
-
 
 <p align="center">
     <a href="https://frienddirectory.herokuapp.com/" target="blank">View Demo</a>
